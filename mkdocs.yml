@@ -1,0 +1,10 @@
+site_name: "APBS & PDB2PQR Biomolecular Electrostatics Software Documentation"
+site_description: "Comprehensive engineering and mathematical documentation for the Adaptive Poisson-Boltzmann Solver (APBS) and PDB2PQR software suite for biomolecular electrostatics calculations."
+site_url: https://apbs-pdb2pqr.readthedocs.io/
+theme:
+  name: readthedocs
+
+nav:
+  - "Overview & Mathematical Model": index.md
+  - "Solvation Free Energy & Electrostatic Surfaces": solvation.md
+  - "Computational Telemetry & Scientific Wires": telemetry-and-wire-protocols.md
